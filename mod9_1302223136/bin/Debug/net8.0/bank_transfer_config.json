@@ -1,0 +1,6 @@
+{
+  "language": "en",
+  "threshold": 25000000,
+  "low_fee": 6500,
+  "high_fee": 1200
+}
